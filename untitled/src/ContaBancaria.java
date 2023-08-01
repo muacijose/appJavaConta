@@ -14,9 +14,9 @@ public class ContaBancaria {
 
         String menu = """
                 *** Gigite sua Opção ***
-                 1 - Consultar saldo 
+                 1 - Consultar saldo
                  2 - Transferir valores
-                 3 - Receber valores               
+                 3 - Receber valores             
                  4 - sair
                 """;
         Scanner leitura = new Scanner(System.in);
